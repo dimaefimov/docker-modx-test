@@ -1,0 +1,673 @@
+[2018-08-05 16:23:18] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 16:23:18] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 16:23:18] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533486198, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 16:25:34] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 16:25:34] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 16:25:34] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533486334, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:56:34] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:56:34] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:56:34] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533491794, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:56:46] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:56:46] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_lexicon_entries' doesn't exist
+)
+
+[2018-08-05 17:56:46] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_lexicon_entries' doesn't exist
+)
+
+[2018-08-05 17:56:47] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_lexicon_entries' doesn't exist
+)
+
+[2018-08-05 17:56:47] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_lexicon_entries' doesn't exist
+)
+
+[2018-08-05 17:56:47] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_lexicon_entries' doesn't exist
+)
+
+[2018-08-05 17:56:47] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_lexicon_entries' doesn't exist
+)
+
+[2018-08-05 17:56:47] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_lexicon_entries' doesn't exist
+)
+
+[2018-08-05 17:56:47] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_actiondom' doesn't exist
+)
+
+[2018-08-05 17:56:47] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:56:47] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533491807, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:56:51] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:56:51] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_actiondom' doesn't exist
+)
+
+[2018-08-05 17:56:51] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:56:51] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:56:51] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:56:51] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533491811, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:56:56] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:56:56] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_actiondom' doesn't exist
+)
+
+[2018-08-05 17:56:56] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:56:56] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:56:56] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:56:56] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533491816, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:57:03] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:57:03] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_actiondom' doesn't exist
+)
+
+[2018-08-05 17:57:03] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:57:03] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:57:03] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:57:03] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533491823, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:57:06] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:57:06] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_actiondom' doesn't exist
+)
+
+[2018-08-05 17:57:06] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:57:06] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:57:06] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:57:06] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533491826, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:58:11] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:58:11] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_actiondom' doesn't exist
+)
+
+[2018-08-05 17:58:11] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:58:11] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:58:11] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:58:11] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533491891, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:58:14] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:58:14] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_actiondom' doesn't exist
+)
+
+[2018-08-05 17:58:14] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:58:14] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:58:14] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:58:14] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533491894, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:58:17] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:58:17] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_actiondom' doesn't exist
+)
+
+[2018-08-05 17:58:17] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:58:17] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:58:17] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:58:17] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533491897, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:58:25] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:58:25] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_actiondom' doesn't exist
+)
+
+[2018-08-05 17:58:25] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:58:25] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_users' doesn't exist
+)
+
+[2018-08-05 17:58:25] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 17:58:25] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533491905, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 18:05:36] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 18:05:36] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 18:05:36] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533492336, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 18:05:39] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 18:05:39] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 18:05:39] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533492339, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 18:42:41] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 18:42:41] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-05 18:42:41] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('b8abf0c0a794971fc9c024436e9cdaa3', 1533494561, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-06 09:56:19] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-06 09:56:19] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-06 09:56:19] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('05fc469aa11c0972cdc29c0c807edc1d', 1533549379, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-06 09:56:19] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-06 09:56:19] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+
+[2018-08-06 09:56:19] (ERROR @ /usr/share/nginx/html/core/xpdo/om/xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('05fc469aa11c0972cdc29c0c807edc1d', 1533549379, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'data1.modx_session' doesn't exist
+)
+

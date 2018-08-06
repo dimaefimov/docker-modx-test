@@ -1,0 +1,5 @@
+Для базы данных
+
+docker import dbcontainer.tar
+Либо
+localhost:8080 - сервер:mysql имя:root пароль:pass база:mysql - импорт
